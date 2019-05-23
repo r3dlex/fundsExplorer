@@ -1,0 +1,391 @@
+codigo,titulo,endereco,bairro,estado,cidade,area,full_address,latitude,longitude
+ABCP11,Grand Plaza Shopping,"Avenida Industrial, 600",Tamanduateí 3,SP,Santo André,"69.628,00 m2","Avenida Industrial, 600, Santo André, SP",-23.6497,-46.5323
+AEFI11,Campinas,"Avenida John Boyd Dunlop, s/n",Jardim Ipaussurama,SP,Campinas,"96.435,16 m2","Avenida John Boyd Dunlop, s/n, Campinas, SP",-22.9102,-47.0957
+AEFI11,Cuiabá,"Avenida Fernando Corrêa da Costa, s/nº",Nossa Senhora Aparecida,MT,Cuiabá,"25.000,00 m2","Avenida Fernando Corrêa da Costa, s/nº, Cuiabá, MT",-15.6099,-56.0783
+AGCX11,Ag 14 Bis,"Avenida Marechal Câmara, 160",Centro,RJ,Rio de Janeiro,"1.900,31 m2","Avenida Marechal Câmara, 160, Rio de Janeiro, RJ",-22.9098,-43.1691
+AGCX11,Ag Avenida Chile,"Avenida República do Chile, 230",Centro,RJ,Rio de Janeiro,"1.139,67 m2","Avenida República do Chile, 230, Rio de Janeiro, RJ",-33.4313,-70.6436
+AGCX11,Ag Avenida Pres. Wilson,"Avenida Rio Branco, 311-B",Centro,RJ,Rio de Janeiro,"713,62 m2","Avenida Rio Branco, 311-B, Rio de Janeiro, RJ",-22.9123,-43.1747
+AGCX11,Ag Bandeira,"Rua Mariz e Barros, 79 (Loja)",Praça da Bandeira,RJ,Rio de Janeiro,"1.339,00 m2","Rua Mariz e Barros, 79 (Loja), Rio de Janeiro, RJ",-22.9125,-43.2154
+AGCX11,Ag Barra Funda,"Avenida Rio Branco, 1675 (Loja)",Campos Eliseos,SP,São Paulo,"1.293,02 m2","Avenida Rio Branco, 1675 (Loja), São Paulo, SP",-23.53,-46.6474
+AGCX11,Ag Benedito Coutinho,"Rua Antônio Bernardo Coutinho, 163",Centro,SP,Osasco,"1.206,10 m2","Rua Antônio Bernardo Coutinho, 163, Osasco, SP",-23.5308,-46.7773
+AGCX11,Ag Campo Limpo,"Estrada do Campo Limpo, 5520",Vila Pirajussara,SP,São Paulo,"604,00 m2","Estrada do Campo Limpo, 5520, São Paulo, SP",-23.6205,-46.7577
+AGCX11,Ag Capão Redondo,"Estrada de Itapecerica, 3429",Vila Maracana,SP,São Paulo,"1.448,48 m2","Estrada de Itapecerica, 3429, São Paulo, SP",-23.6568,-46.7633
+AGCX11,Ag Carapicuiba,"Avenida Rui Barbosa, 281 (Calçadão)",Centro,SP,Carapicuiba,"1.949,20 m2","Avenida Rui Barbosa, 281 (Calçadão), Carapicuiba, SP",-23.5208,-46.834
+AGCX11,Ag Cipó Guaçu,"Rua Sesefredo Klein Doll, 12",Cipó Guaçu,SP,Embu-Guaçu,"551,00 m2","Rua Sesefredo Klein Doll, 12, Embu-Guaçu, SP",-23.8864,-46.7957
+AGCX11,Ag Estrada Rio do A,"Estrada Rio do A, 1131",,RJ,Campo Grande,"571,41 m2","Estrada Rio do A, 1131, Campo Grande, RJ",-22.8974,-43.5651
+AGCX11,Ag Guaianases,"Rua Salvador Gianetti, 436",Guaianases,SP,São Paulo,"2.475,10 m2","Rua Salvador Gianetti, 436, São Paulo, SP",-23.5424,-46.4182
+AGCX11,Ag Guarapiranga,"Avenida de Pinedo, 228",Capela do Socorro,SP,São Paulo,"1.312,18 m2","Avenida de Pinedo, 228, São Paulo, SP",-23.6675,-46.7132
+AGCX11,Ag Hebraica,"Avenida Brigadeiro Faria Lima, 1644",Jardim Paulistano,SP,São Paulo,"323,31 m2","Avenida Brigadeiro Faria Lima, 1644, São Paulo, SP",-23.5722,-46.6903
+AGCX11,Ag Imirim,"Avenida Imirim, 1271",Imirim,SP,São Paulo,"1.384,34 m2","Avenida Imirim, 1271, São Paulo, SP",-23.4941,-46.6467
+AGCX11,Ag Inconfidencia,"Rua Curitiba, 888",Centro,MG,Belo Horizonte,"2.373,17 m2","Rua Curitiba, 888, Belo Horizonte, MG",-19.9202,-43.9419
+AGCX11,Ag Industrial,"Avenida Comendador Alexandrino Garcia, 1285",Marta Helena,MG,Uberlândia,"552,00 m2","Avenida Comendador Alexandrino Garcia, 1285, Uberlândia, MG",-18.8816,-48.2682
+AGCX11,Ag Ipanema,"Rua Visconde de Pirajá, 127",Ipanema,RJ,Rio de Janeiro,"510,00 m2","Rua Visconde de Pirajá, 127, Rio de Janeiro, RJ",-22.9847,-43.1993
+AGCX11,Ag Itaquaquecetuba,"Rua Sebastião Ferreira dos Santos, 93",Centro,SP,Itaquaquecetuba,"2.342,10 m2","Rua Sebastião Ferreira dos Santos, 93, Itaquaquecetuba, SP",-23.4771,-46.353
+AGCX11,Ag Jardim da Saúde,"Avenida do Cursino, 1348",Jardim da Saúde,SP,São Paulo,"1.833,14 m2","Avenida do Cursino, 1348, São Paulo, SP",-23.6142,-46.6173
+AGCX11,Ag Jundiapeba,"Alameda Santo Ângelo, 118",Jundiapeba,SP,Mogi das Cruzes,"593,44 m2","Alameda Santo Ângelo, 118, Mogi das Cruzes, SP",-23.5441,-46.2583
+AGCX11,Ag Leme,"Rua Antônio Vieira, 24 - Loja A",Leme,RJ,Rio de Janeiro,"696,80 m2","Rua Antônio Vieira, 24 - Loja A, Rio de Janeiro, RJ",-22.9634,-43.1727
+AGCX11,Ag Meier,"Rua Dias da Cruz, 28-A (Loja)",Meier,RJ,Rio de Janeiro,"1.483,53 m2","Rua Dias da Cruz, 28-A (Loja), Rio de Janeiro, RJ",-22.9019,-43.2788
+AGCX11,Ag Nova Iguacu,"Avenida Marechal Floriano Peixoto, 2370",Centro,RJ,Nova Iguaçu,"3.256,00 m2","Avenida Marechal Floriano Peixoto, 2370, Nova Iguaçu, RJ",-22.7586,-43.4538
+AGCX11,Ag Osasco,"Avenida das Esmeraldas, 512",Mutinga,SP,Osasco,"804,00 m2","Avenida das Esmeraldas, 512, Osasco, SP",-23.5062,-46.7707
+AGCX11,Ag Paes Leme,"Rua Paes Leme, 250 258",Pinheiros,SP,São Paulo,"903,60 m2","Rua Paes Leme, 250 258, São Paulo, SP",-23.5676,-46.6987
+AGCX11,Ag Pátio do Colégio,"Lg. Páteo do Colégio, 1",Centro,SP,São Paulo,"676,00 m2","Lg. Páteo do Colégio, 1, São Paulo, SP",-23.5485,-46.6322
+AGCX11,Ag Pedro Vicente,"Rua Pedro Vicente, 222",Luz,SP,São Paulo,"814,20 m2","Rua Pedro Vicente, 222, São Paulo, SP",-23.5255,-46.6268
+AGCX11,Ag Pirituba,"Rua Guerino Giovani Leardini, 63/67",Vila Pirituba,SP,São Paulo,"1.368,00 m2","Rua Guerino Giovani Leardini, 63/67, São Paulo, SP",-23.4877,-46.7211
+AGCX11,Ag Planalto Paulista,"Avenida Indianópolis, 2125",Indianopolis,SP,São Paulo,"1.299,00 m2","Avenida Indianópolis, 2125, São Paulo, SP",-23.6168,-46.6489
+AGCX11,Ag Pq. Maria Helena,"Avenida VeRua João Batista Fitipaldi, 115",Vila Maluf,SP,Suzano,"581,00 m2","Avenida VeRua João Batista Fitipaldi, 115, Suzano, SP",-23.5329,-46.3075
+AGCX11,Ag Quitauna,"Avenida dos Autonomistas, 5386",Vila Yara,SP,Osasco,"2.250,00 m2","Avenida dos Autonomistas, 5386, Osasco, SP",-23.5261,-46.7988
+AGCX11,Ag Rua dos Italianos,"Rua dos Italianos, 609",Bom Retiro,SP,São Paulo,"520,50 m2","Rua dos Italianos, 609, São Paulo, SP",-23.5247,-46.644
+AGCX11,Ag Rec Bandeirantes,"Avenida das Américas, 15545",Recreio dos Bandeirantes,RJ,Rio de Janeiro,"919,00 m2","Avenida das Américas, 15545, Rio de Janeiro, RJ",-23.0145,-43.4653
+AGCX11,Ag Rio Claro,"Avenida 1, 500",Centro,SP,Rio Claro,"542,70 m2","Avenida 1, 500, Rio Claro, SP",-22.4106,-47.563
+AGCX11,Ag Santa Cecilia,"Rua das Palmeiras, 233 (Loja)",Vila Buarque,SP,São Paulo,"1.205,86 m2","Rua das Palmeiras, 233 (Loja), São Paulo, SP",-23.5374,-46.6512
+AGCX11,Ag São Gonçalo,"Rua DRua Nilo Peçanha, 125",Centro,RJ,São Gonçalo,"1.388,00 m2","Rua DRua Nilo Peçanha, 125, São Gonçalo, RJ",-22.8223,-43.0431
+AGCX11,Ag Senador Queiros,"Avenida Senador Queiroz, 85 a 111",Centro,SP,São Paulo,"1.446,96 m2","Avenida Senador Queiroz, 85 a 111, São Paulo, SP",-23.5388,-46.6353
+AGCX11,Ag Venda Nova,"Rua Padre Pedro Pinto, 1.580",Venda Nova,MG,Belo Horizonte,"2.585,45 m2","Rua Padre Pedro Pinto, 1.580, Belo Horizonte, MG",-19.8122,-43.9642
+AGCX11,Ag Via Anchieta,"Via Anchieta, 1558",Vila Moinho,SP,São Paulo,"1.785,00 m2","Via Anchieta, 1558, São Paulo, SP",-23.6153,-46.6014
+AGCX11,Ag Vila Mascote,"Avenida Santa Catarina, 287",Vila Alexandria,SP,São Paulo,"753,36 m2","Avenida Santa Catarina, 287, São Paulo, SP",-23.6392,-46.6692
+ALZR11,Air Liquide,"Avenida Presidente Wilson, 5874",Vila Carioca,SP,São Paulo,"5.008,00 m2","Avenida Presidente Wilson, 5874, São Paulo, SP",-23.6012,-46.5841
+ALZR11,Atento,"Avenida Dom Hélder Câmara, 3203",Del Castilho,RJ,Rio de Janeiro,"8.178,00 m2","Avenida Dom Hélder Câmara, 3203, Rio de Janeiro, RJ",-22.8789,-43.2656
+BBFI11B,Centro Administrativo do Andaraí,"Rua Barão São Francisco, 177",Andaraí,RJ,Rio de Janeiro,"40.176,69 m2","Rua Barão São Francisco, 177, Rio de Janeiro, RJ",-22.9215,-43.2504
+BBFI11B,Edíficio Sede I - Agência Banco do Brasil,Setor Bancário Sul Q. 1,,DF,Brasília,"46.135,00 m2","Setor Bancário Sul Q. 1, Brasília, DF",-23.6005,-46.4001
+BBPO11,Ag. Afonso Pena,"Avenida Afonso Pena, 2202",Centro,MS,Campo Grande,"8.103,28 m2","Avenida Afonso Pena, 2202, Campo Grande, MS",-20.4642,-54.6154
+BBPO11,Ag. Aldeota,"Avenida Santos Dumont, 2889",Aldeota,CE,Fortaleza,"5.476,78 m2","Avenida Santos Dumont, 2889, Fortaleza, CE",-3.7362,-38.4982
+BBPO11,Ag. Ana Rosa,"Rua Domingos de Moraes, 438",Vila Mariana,SP,São Paulo,"1.688,00 m2","Rua Domingos de Moraes, 438, São Paulo, SP",-23.581,-46.6394
+BBPO11,Ag. Araçatuba,"Praça Rui Barbosa, 322",centro,SP,Araçatuba,"6.070,59 m2","Praça Rui Barbosa, 322, Araçatuba, SP",-21.2066,-50.4382
+BBPO11,Ag. Asa Norte 504,Avenida W-3 Qd 504 Asa Norte,,DF,Brasilia,"4.593,67 m2","Avenida W-3 Qd 504 Asa Norte, Brasilia, DF",-15.7769,-47.8787
+BBPO11,Ag. Asa Sul 507,"Avenida W-3 Qd.7 Lt.7, 8 e 9 - Asa Sul 507",,DF,Brasilia,"1.757,82 m2","Avenida W-3 Qd.7 Lt.7, 8 e 9 - Asa Sul 507, Brasilia, DF",-15.7784,-47.9286
+BBPO11,Ag. Belém Centro,"Avenida Pres. Vargas, 248",,PA,Belém,"10.514,51 m2","Avenida Pres. Vargas, 248, Belém, PA",-1.4498,-48.4978
+BBPO11,Ag. Belo Horizonte,"Rua Rio de Janeiro, 750",Centro,MG,Belo Horizonte,"18.909,00 m2","Rua Rio de Janeiro, 750, Belo Horizonte, MG",-19.9211,-43.9394
+BBPO11,Ag. Bom Retiro,"Rua Julio Conceição, 438",Bom Retiro,SP,São Paulo,"2.962,00 m2","Rua Julio Conceição, 438, São Paulo, SP",-23.5268,-46.6405
+BBPO11,Ag. Bonfim,"Avenida Gov. Pedro de Toledo, 1099",Bonfim,SP,Campinas,"8.170,00 m2","Avenida Gov. Pedro de Toledo, 1099, Campinas, SP",-22.9002,-47.081
+BBPO11,Ag. Brás,"Avenida Rangel Pestana, 2128",Brás,SP,São Paulo,"4.247,00 m2","Avenida Rangel Pestana, 2128, São Paulo, SP",-23.542,-46.6148
+BBPO11,Ag. Brooklin Paulista,"Rua Joaquim Nabuco, 246",,SP,São Paulo,"1.843,00 m2","Rua Joaquim Nabuco, 246, São Paulo, SP",-23.6247,-46.6832
+BBPO11,Ag. Campinas,"Rua DRua Costa Aguiar, 626",Centro,SP,Campinas,"5.981,84 m2","Rua DRua Costa Aguiar, 626, Campinas, SP",-22.9075,-47.0633
+BBPO11,Ag. Campos Elíseos,"Avenida Rio Branco, 1.437",Campos Elíseos,SP,São Paulo,"5.991,00 m2","Avenida Rio Branco, 1.437, São Paulo, SP",-23.5318,-46.646
+BBPO11,Ag. Campos Goytacazes,"Praça das 4 Jornadas, 11",Centro,RJ,Campos Goytacazes,"7.322,74 m2","Praça das 4 Jornadas, 11, Campos Goytacazes, RJ",-22.9088,-43.1967
+BBPO11,Ag. Carijós,"Rua Espírito Santo, 571",Centro,MG,Belo Horizonte,"5.407,00 m2","Rua Espírito Santo, 571, Belo Horizonte, MG",-19.9199,-43.9373
+BBPO11,Ag. Casa Verde,"Rua Baroré, 284",Casa Verde,SP,São Paulo,"2.268,00 m2","Rua Baroré, 284, São Paulo, SP",-23.5085,-46.6571
+BBPO11,Ag. Catedral Sorocaba,"Rua XV de Novembro, 63/67",centro,SP,Sorocaba,"2.089,00 m2","Rua XV de Novembro, 63/67, Sorocaba, SP",-23.5014,-47.4527
+BBPO11,Ag. Caxias do Sul,"Rua Marques do Herval, 1354 - Ed. Satélite",Centro,RS,Caxias do Sul,"5.778,75 m2","Rua Marques do Herval, 1354 - Ed. Satélite, Caxias do Sul, RS",-29.1684,-51.1786
+BBPO11,Ag. Centro,"Rua XV de Novembro, 191",centro,SP,Sorocaba,"6.614,50 m2","Rua XV de Novembro, 191, Sorocaba, SP",-23.5001,-47.4551
+BBPO11,Ag. Cinelândia,"Avenida 13 de Maio, 13",Centro,RJ,RIO DE JANEIRO,"1.834,12 m2","Avenida 13 de Maio, 13, RIO DE JANEIRO, RJ",-22.9095,-43.1769
+BBPO11,Ag. Conjunto Nacional,SDN Conj. A Lj.C-03 - 2º pavto.,,DF,Brasilia,"1.207,40 m2","SDN Conj. A Lj.C-03 - 2º pavto., Brasilia, DF",-15.7784,-47.9286
+BBPO11,Ag. Duque de Caxias,"Avenida Presidente Kennedy, 1461",Centro,RJ,Duque de Caxias,"3.535,61 m2","Avenida Presidente Kennedy, 1461, Duque de Caxias, RJ",-22.7899,-43.3104
+BBPO11,Ag. Florianópolis,Praça XV de Novembro 321,Centro,SC,Florianópolis,"6.788,73 m2","Praça XV de Novembro 321, Florianópolis, SC",-27.5078,-48.5196
+BBPO11,Ag. Freguesia do Ó,"Avenida Santa Marina, 2.618",Vila Albertina,SP,São Paulo,"2.259,00 m2","Avenida Santa Marina, 2.618, São Paulo, SP",-23.5019,-46.6946
+BBPO11,Ag. General Valadão,"Praça General Valadão, 377",Centro,SE,Aracaju,"6.077,92 m2","Praça General Valadão, 377, Aracaju, SE",-10.8898,-37.0482
+BBPO11,Ag. Ipiranga,"Rua Bom Pastor, 153/169",Ipiranga,SP,São Paulo,"7.007,00 m2","Rua Bom Pastor, 153/169, São Paulo, SP",-23.5775,-46.6086
+BBPO11,Ag. Jacarepaguá,"Av.Geremário Dantas, 78",Tanque,RJ,RIO DE JANEIRO,"1.300,96 m2","Av.Geremário Dantas, 78, RIO DE JANEIRO, RJ",-22.9182,-43.3611
+BBPO11,Ag. Juiz de Fora,"Rua Halfeld, 770",Centro,MG,Juiz Fora,"6.587,20 m2","Rua Halfeld, 770, Juiz Fora, MG",-21.761,-43.3488
+BBPO11,Ag. Leblon,"Av.Bartolomeu Mitre, 438 A",Leblon,RJ,RIO DE JANEIRO,"1.373,42 m2","Av.Bartolomeu Mitre, 438 A, RIO DE JANEIRO, RJ",-22.9829,-43.2233
+BBPO11,Ag. Manaus,"Rua Guilherme Moreira, 315",Centro,AM,Manaus,"9.269,63 m2","Rua Guilherme Moreira, 315, Manaus, AM",-3.1353,-60.023
+BBPO11,Ag. Maringá,"Avenida Duque de Caxias, 448",Centro,PR,Maringa,"7.623,36 m2","Avenida Duque de Caxias, 448, Maringa, PR",-23.4217,-51.9398
+BBPO11,Ag. Moema,"Alameda dos Jurupis, 1.156",Indianópolis,SP,São Paulo,"2.353,00 m2","Alameda dos Jurupis, 1.156, São Paulo, SP",-23.6085,-46.6639
+BBPO11,Ag. Niterói,"Avenida Ernani Amaral Peixoto, 347",Centro,RJ,Niteroi,"4.431,34 m2","Avenida Ernani Amaral Peixoto, 347, Niteroi, RJ",-22.8934,-43.1202
+BBPO11,Ag. N. Sra. da Lapa,"Rua N. Sra. da Lapa, 281",Lapa,SP,São Paulo,"3.878,31 m2","Rua N. Sra. da Lapa, 281, São Paulo, SP",-23.5221,-46.7036
+BBPO11,Ag. Paraíso,"Rua Bernardino de Campos, 250",,SP,São Paulo,"1.447,00 m2","Rua Bernardino de Campos, 250, São Paulo, SP",-22.7233,-47.6381
+BBPO11,Ag. Passo Fundo,"Rua Bento Gonçalves, 516",Centro,RS,Passo Fundo,"506,00 m2","Rua Bento Gonçalves, 516, Passo Fundo, RS",-28.26,-52.4074
+BBPO11,Ag. Praça da Árvore,"Avenida Jabaquara, 424 - Praça da Árvore",Mirandópolis,SP,São Paulo,"2.506,37 m2","Avenida Jabaquara, 424 - Praça da Árvore, São Paulo, SP",-23.6078,-46.6379
+BBPO11,Ag. Praça Rui Barbosa,"Praça Rui Barbosa, 55",,SP,Bauru,"4.085,00 m2","Praça Rui Barbosa, 55, Bauru, SP",-22.3221,-49.0712
+BBPO11,Ag. Praça XV Novembro BESC,Praça XV de Novembro 321,Centro,SC,Florianópolis,"3.663,99 m2","Praça XV de Novembro 321, Florianópolis, SC",-27.5078,-48.5196
+BBPO11,Ag. Penha de Franca,"Avenida Penha de França, 549",Penha de França,SP,São Paulo,"2.312,10 m2","Avenida Penha de França, 549, São Paulo, SP",-23.522,-46.547
+BBPO11,Ag. Pinheiros,"Rua Pinheiros, 1.492",Pinheiros,SP,São Paulo,"2.375,00 m2","Rua Pinheiros, 1.492, São Paulo, SP",-23.5679,-46.692
+BBPO11,Ag. Ponta Grossa,"Rua Augusto Ribas, 555",Centro,PR,Ponta Grossa,"7.562,77 m2","Rua Augusto Ribas, 555, Ponta Grossa, PR",-25.0972,-50.1601
+BBPO11,Ag. Ribeirão Preto,"Rua Duque de Caxias, 725",Centro,SP,Ribeirão Preto,"3.642,79 m2","Rua Duque de Caxias, 725, Ribeirão Preto, SP",-21.1754,-47.8074
+BBPO11,Ag. Santana,"Rua Voluntários da Pátria, 1.769",Santana,SP,São Paulo,"2.061,00 m2","Rua Voluntários da Pátria, 1.769, São Paulo, SP",-23.5048,-46.6264
+BBPO11,Ag. Santo Amaro Paulista,"Rua Paulo Eiró, 471",Santo Amaro,SP,São Paulo,"4.879,00 m2","Rua Paulo Eiró, 471, São Paulo, SP",-23.651,-46.708
+BBPO11,Ag. São Caetano do Sul,"Praça Cardeal Arcoverde, 52",centro,SP,São Caetano do Sul,"3.733,00 m2","Praça Cardeal Arcoverde, 52, São Caetano do Sul, SP",-23.6141,-46.5719
+BBPO11,Ag. São José dos Campos,"Avenida Doutor Nelson D'Ávila, 149",centro,SP,São José dos Campos ,"6.501,15 m2","Avenida Doutor Nelson D'Ávila, 149, São José dos Campos , SP",-23.2024,-45.8851
+BBPO11,Ag. São José Rio Preto ,"Rua Voluntários de São Paulo, 2975",Centro,SP,São José do Rio Preto,"3.042,94 m2","Rua Voluntários de São Paulo, 2975, São José do Rio Preto, SP",-20.8118,-49.3801
+BBPO11,Ag. Tamoios,"Rua Tamoios, 731",Centro,MG,Belo Horizonte,"14.829,70 m2","Rua Tamoios, 731, Belo Horizonte, MG",-19.9193,-43.9434
+BBPO11,Ag. Tijuca,"Rua Conde de Bonfim, 369 A",Tijuca,RJ,RIO DE JANEIRO,"1.291,87 m2","Rua Conde de Bonfim, 369 A, RIO DE JANEIRO, RJ",-22.925,-43.2335
+BBPO11,Ag. Toledo,"Rua 7 de Setembro, 1209",Centro,PR,Toledo,"4.696,00 m2","Rua 7 de Setembro, 1209, Toledo, PR",-24.7332,-53.7419
+BBPO11,Ag. Uberlândia,"Avenida Afonso Pena, 745",Centro,MG,Uberlândia,"6.241,00 m2","Avenida Afonso Pena, 745, Uberlândia, MG",-18.9171,-48.2771
+BBPO11,Ag. Vila Carrão,"Avenida Conselheiro Carrão, 2411",Vila Carrao,SP,São Paulo,"2.538,00 m2","Avenida Conselheiro Carrão, 2411, São Paulo, SP",-23.5481,-46.5383
+BBPO11,Ag. Zona Sul,"Avenida N. Senhora de Copacabana, 594",Copacabana,RJ,RIO DE JANEIRO,"2.062,03 m2","Avenida N. Senhora de Copacabana, 594, RIO DE JANEIRO, RJ",-22.9695,-43.1853
+BBPO11,CSL Belo Horizonte,"Rua da Bahia, 2.500",Lourdes,MG,Belo Horizonte,"14.176,09 m2","Rua da Bahia, 2.500, Belo Horizonte, MG",-19.9372,-43.941
+BBPO11,CSL Brasília,"Avenida Goiás, 980 - QD. 14",Centro,GO,Goiânia,"11.133,35 m2","Avenida Goiás, 980 - QD. 14, Goiânia, GO",-16.642,-49.2677
+BBPO11,CSL Curitiba,"Praça Tiradentes, 410",Centro,PR,Curitiba,"14.619,73 m2","Praça Tiradentes, 410, Curitiba, PR",-25.4305,-49.2724
+BBPO11,CSL São Paulo,"Rua Líbero Badaró, 568 e Avenida São João, 32",centro,SP,São Paulo,"3.662,50 m2","Rua Líbero Badaró, 568 e Avenida São João, 32, São Paulo, SP",-23.545,-46.6351
+BBPO11,CSL São Paulo,"Rua Líbero Badaró, 582 e Rua São Bento, 483",Centro,SP,São Paulo,"1.436,50 m2","Rua Líbero Badaró, 582 e Rua São Bento, 483, São Paulo, SP",-23.5449,-46.6351
+BBPO11,Ed. Sede III,Qd 01 Bloco G Lote 32-SBS,,DF,Brasilia,"46.054,40 m2","Qd 01 Bloco G Lote 32-SBS, Brasilia, DF",-15.7784,-47.9286
+BBPO11,PSO Piracicaba ,"Praça José Bonifácio, 945",Centro,SP,Piracicaba,"5.122,37 m2","Praça José Bonifácio, 945, Piracicaba, SP",-22.7253,-47.6486
+BBPO11,Super VAR e GOV MT,"Rua Felinto Muller, 2104",Quilombo,MT,Cuiabá,"3.347,98 m2","Rua Felinto Muller, 2104, Cuiabá, MT",-15.6124,-56.0917
+BBPO11,Super VAR e GOV RS,"Rua Honório Silveira Dias, 1830",Higienopolis,RS,Porto Alegre,"4.280,00 m2","Rua Honório Silveira Dias, 1830, Porto Alegre, RS",-30.0194,-51.1848
+BBRC11,Ag. Avenida Francisco Morato,"Avenida Prof. Francisco Morato, 2004",Butantã,SP,São Paulo,"893,23 m2","Avenida Prof. Francisco Morato, 2004, São Paulo, SP",-23.5845,-46.7181
+BBRC11,Ag. Avenida Santo Amaro,"Avenida Santo Amaro, 2163",Brooklin Paulista,SP,São Paulo,"1.185,27 m2","Avenida Santo Amaro, 2163, São Paulo, SP",-23.6032,-46.6745
+BBRC11,Ag. Demarchi,"Avenida Maria Servidei Demarchi, 1662",Demarchi,SP,São Bernardo do Campo,"691,63 m2","Avenida Maria Servidei Demarchi, 1662, São Bernardo do Campo, SP",-23.739,-46.5537
+BBRC11,Ag. Estilo Avenida Portugal,"Avenida Portugal, 519",Centro,SP,Santo André,"657,94 m2","Avenida Portugal, 519, Santo André, SP",-23.6605,-46.5318
+BBRC11,Ag. Estilo Berrini,"Avenida Eng. Luis Carlos Berrini, 559",Itaim Bibi,SP,São Paulo,"787,53 m2","Avenida Eng. Luis Carlos Berrini, 559, São Paulo, SP",-23.6016,-46.6913
+BBRC11,Ag. Estilo Brasil,"Avenida Brasil, 418",Jardins,SP,São Paulo,"623,55 m2","Avenida Brasil, 418, São Paulo, SP",-23.5761,-46.6645
+BBRC11,Ag. Estilo Butantã,"Avenida Prof. Francisco Morato, 1214",Butantã,SP,São Paulo,"741,56 m2","Avenida Prof. Francisco Morato, 1214, São Paulo, SP",-23.5809,-46.7117
+BBRC11,Ag. Estilo Cambuí,"Rua Coronel Quirino , 644",Centro,SP,Campinas,"748,68 m2","Rua Coronel Quirino , 644, Campinas, SP",-22.9026,-47.0509
+BBRC11,Ag. Estilo Estados Unidos,"Rua Estados Unidos, 1931",Jardim America,SP,São Paulo,"582,92 m2","Rua Estados Unidos, 1931, São Paulo, SP",-23.5645,-46.6719
+BBRC11,Ag. Estilo Indianópolis,"Avenida Indianópolis, 546",Indianópolis,SP,São Paulo,"674,39 m2","Avenida Indianópolis, 546, São Paulo, SP",-23.6035,-46.6549
+BBRC11,Ag. Estilo Joaquim Floriano,"Rua Joaquim Floriano, 666",Itaim Bibi,SP,São Paulo,"683,97 m2","Rua Joaquim Floriano, 666, São Paulo, SP",-23.585,-46.6765
+BBRC11,Ag. Estilo Nova Faria Lima,"Alameda Gabriel Monteiro da Silva, 2032",Jardim America,SP,São Paulo,"601,63 m2","Alameda Gabriel Monteiro da Silva, 2032, São Paulo, SP",-23.5742,-46.6867
+BBRC11,Ag. Estilo Santo Amaro,"Rua Marechal Deodoro, 440",Santo Amaro,SP,São Paulo,"592,74 m2","Rua Marechal Deodoro, 440, São Paulo, SP",-23.6404,-46.6972
+BBRC11,Ag. Estilo Vila Esperança,"Avenida Amador Bueno da Veiga, 1516",Penha de Franca,SP,São Paulo,"583,13 m2","Avenida Amador Bueno da Veiga, 1516, São Paulo, SP",-23.5223,-46.5306
+BBRC11,Ag. Imperatriz Leopoldina,"Rua Guaipá, 1389",Vila Leopoldina,SP,São Paulo,"1.003,04 m2","Rua Guaipá, 1389, São Paulo, SP",-23.5226,-46.7354
+BBRC11,Ag. Paes de Barros,"Avenida Paes de Barros, 2621",Mooca,SP,São Paulo,"819,72 m2","Avenida Paes de Barros, 2621, São Paulo, SP",-23.5735,-46.5873
+BBRC11,Ag. Parque da Aclimação,"Rua Pires da Mota, 488",Liberdade,SP,São Paulo,"839,35 m2","Rua Pires da Mota, 488, São Paulo, SP",-23.5666,-46.6334
+BBRC11,Ag. Pedro Pinho,"Avenida Gen. Pedro Pinho, 641",Pestana,SP,Osasco,"953,20 m2","Avenida Gen. Pedro Pinho, 641, Osasco, SP",-23.5364,-46.8012
+BBRC11,Ag. Pq. Boturussu,"Avenida São Miguel, 2328",Vila Marieta,SP,São Paulo,"775,41 m2","Avenida São Miguel, 2328, São Paulo, SP",-23.511,-46.5086
+BBRC11,Ag. Raposo,"Avenida Eng. Heitor Antônio Eiras Garcia, 3963",,SP,São Paulo,"879,88 m2","Avenida Eng. Heitor Antônio Eiras Garcia, 3963, São Paulo, SP",-23.5892,-46.767
+BBVJ11,Cidade Jardim Continental Tower,"Avenida Magalhães de Castro, 4800",Jardim Panorama do Oeste,SP,São Paulo,"22.465,00 m2","Avenida Magalhães de Castro, 4800, São Paulo, SP",-23.6014,-46.6978
+BMLC11B,Brascan Century Plaza,"Rua Joaquim Floriano, nº 466",Itaim Bibi,SP,São Paulo,"1.453,18 m2","Rua Joaquim Floriano, nº 466, São Paulo, SP",-23.5845,-46.6746
+BMLC11B,Torre Rio Sul,"Rua  Lauro  Muller,  nº 116",Botafogo,RJ,Rio de Janeiro,"5.837,16 m2","Rua  Lauro  Muller,  nº 116, Rio de Janeiro, RJ",-22.9568,-43.1764
+BNFS11,Ag Arroio do Sal,"Avenida Assis Brasil, 659",Centro,RS,Arroio do Sal,"421,54 m2","Avenida Assis Brasil, 659, Arroio do Sal, RS",-29.5475,-49.8913
+BNFS11,Ag Belém Novo,"Avenida Cecilio Monza, 10827",Belém Novo,RS,Porto Alegre,"558,70 m2","Avenida Cecilio Monza, 10827, Porto Alegre, RS",-30.2091,-51.1813
+BNFS11,Ag Camboim,"Avenida Joao Pereira de Vargas,1460",Camboim,RS,Sapucaia do Sul,"418,83 m2","Avenida Joao Pereira de Vargas,1460, Sapucaia do Sul, RS",-29.8338,-51.1413
+BNFS11,Ag Campina,"Rua Henrique Bier,1125",Campina,RS,São Leopoldo,"477,94 m2","Rua Henrique Bier,1125, São Leopoldo, RS",-29.7441,-51.16
+BNFS11,Ag Cassino,"Avenida Atlantica, 537",Cassino,RS,Rio Grande,"403,45 m2","Avenida Atlantica, 537, Rio Grande, RS",-32.1864,-52.1616
+BNFS11,Ag Cruz Alta,"Avenida Venancio Aires, 1745",Centro,RS,Cruz Alta,"1.069,66 m2","Avenida Venancio Aires, 1745, Cruz Alta, RS",-28.647,-53.6065
+BNFS11,Ag General Câmara,"Rua Jose Do Patrocinio, 165",General Câmara,RS,General Câmara,"373,20 m2","Rua Jose Do Patrocinio, 165, General Câmara, RS",-29.9114,-51.7652
+BNFS11,Ag Padre Claret,Avenida Padre Claret 1104,Centro,RS,Esteio,"475,70 m2","Avenida Padre Claret 1104, Esteio, RS",-29.8493,-51.1658
+BNFS11,Ag Parobé,"Rua Odorico Mosmann,257",Centro,RS,Parobe,"513,03 m2","Rua Odorico Mosmann,257, Parobe, RS",-29.6324,-50.8336
+BNFS11,Ag Quarai,"Rua Baltazar Brum, 320",,RS,Quarai,"475,70 m2","Rua Baltazar Brum, 320, Quarai, RS",-30.3867,-56.4533
+BNFS11,Ag Santa Rosa,Avenida Flores d a Cunha 681,Cruzeiro,RS,Santa Rosa,"503,67 m2","Avenida Flores d a Cunha 681, Santa Rosa, RS",-27.862,-54.4356
+BNFS11,Ag São Gabriel,"Avenida Julio de Castillhos,303",Centro,RS,São Gabriel,"465,43 m2","Avenida Julio de Castillhos,303, São Gabriel, RS",-30.3379,-54.3229
+BNFS11,Ag Sapiranga,"Avenida 20 de Setembro, 3755",Centro,RS,Sapiranga,"922,02 m2","Avenida 20 de Setembro, 3755, Sapiranga, RS",-29.6327,-50.9837
+BNFS11,Ag Scharlau,"Avenida Tomaz Edison, 2615",Scharlau,RS,São Leopoldo,"533,70 m2","Avenida Tomaz Edison, 2615, São Leopoldo, RS",-29.7332,-51.1547
+BNFS11,Ag Tancredo Neves,"Avenida N. Sra. das Dores, 322",Nossa Senhora das Dores,RS,Santa Maria,"498,30 m2","Avenida N. Sra. das Dores, 322, Santa Maria, RS",-29.6897,-53.7999
+BNFS11,Ag Taquari,"Rua Osvaldo Aranha, 2396",Centro,RS,Taquari,"770,82 m2","Rua Osvaldo Aranha, 2396, Taquari, RS",-29.7991,-51.8652
+BNFS11,Ag Vacaria,Rua Moreira Paz 591,Nossa Senhora de Fatima,RS,Vacaria,"916,54 m2","Rua Moreira Paz 591, Vacaria, RS",-28.5112,-50.9358
+BNFS11, Ag Vila Ipiranga,"Avenida do Forte, 1128",Vila Ipiranga,RS,Porto Alegre,"495,20 m2","Avenida do Forte, 1128, Porto Alegre, RS",-30.0206,-51.1516
+BRCR11,Brazilian FC,"Avenida Paulista, 1374",Bela Vista,SP,São Paulo,"42.612,00 m2","Avenida Paulista, 1374, São Paulo, SP",-23.5628,-46.6545
+BRCR11,CENESP,"Avenida Maria Coelho Aguiar, 215",Jardim São Luís,SP,São Paulo,"64.480,00 m2","Avenida Maria Coelho Aguiar, 215, São Paulo, SP",-23.6484,-46.7316
+BRCR11,Centro Empresarial Transatlântico,Rua Verbo Divino 1488,Chácara Santo Antônio,SP,São Paulo,"4.209,44 m2","Rua Verbo Divino 1488, São Paulo, SP",-23.631,-46.7093
+BRCR11,Edifício Burity,"Avenida Indianópolis 3096,",Indianópolis,SP,São Paulo,"10.549,53 m2","Avenida Indianópolis 3096,, São Paulo, SP",-23.625,-46.6459
+BRCR11,Edifício Cargill,Avenida Morumbi 8234,Santo Amaro,SP,São Paulo,"10.625,81 m2","Avenida Morumbi 8234, São Paulo, SP",-23.6208,-46.692
+BRCR11,Edifício Eldorado Business Tower,Avenida Das Nações Unidas 8501,Várzea de Baixo,SP,São Paulo,"45.400,28 m2","Avenida Das Nações Unidas 8501, São Paulo, SP",-23.5737,-46.6977
+BRCR11,Edifício Volkswagen,Rua Volkswagen 291,Jabaquara,SP,São Paulo,"12.560,00 m2","Rua Volkswagen 291, São Paulo, SP",-23.6359,-46.644
+BRCR11,Flamengo Park Towers,Praia do Flamengo 66,Flamengo,RJ,Rio de Janeiro,"7.670,00 m2","Praia do Flamengo 66, Rio de Janeiro, RJ",-22.9269,-43.1736
+BRCR11,Montreal,Avenida Das Américas 4200,Barra da Tijuca,RJ,Rio de Janeiro,"6.439,00 m2","Avenida Das Américas 4200, Rio de Janeiro, RJ",-22.9995,-43.3538
+BRCR11,Torre Almirante,Avenida Almirante Barroso 81,Centro,RJ,Rio de Janeiro,"24.881,00 m2","Avenida Almirante Barroso 81, Rio de Janeiro, RJ",-22.9074,-43.1752
+CBOP11,Torre Jatobá - Castello Branco Office Park,"Avenida Marcos Penteado de Ulhoa Rodrigues, 939",Tamboré,SP,Barueri,"14.372,30 m2","Avenida Marcos Penteado de Ulhoa Rodrigues, 939, Barueri, SP",-23.5061,-46.8376
+CEOC11,Edifício Corporate Executive Offices (CEO),"Avenida João Cabral de Mello Neto, 850",Barra da Tijuca,RJ,Rio de Janeiro,"11.942,00 m2","Avenida João Cabral de Mello Neto, 850, Rio de Janeiro, RJ",-22.9858,-43.3591
+CTXT11,Centro Têxtil Internacional,Avenida Roberto Zuccolo nº 555,Vila Leopoldina,SP,São Paulo,"45.450,00 m2","Avenida Roberto Zuccolo nº 555, São Paulo, SP",-23.5262,-46.7449
+CXCE11B,CEDAE,"Avenida Pres. Vargas, 2655",Cidade Nova,RJ,Rio de Janeiro,"19.938,00 m2","Avenida Pres. Vargas, 2655, Rio de Janeiro, RJ",-22.9041,-43.188
+CXTL11,Aspro,Rod. BR-277 Km 107,Rondinha,PR,Campo Largo,"4.577,94 m2","Rod. BR-277 Km 107, Campo Largo, PR",-25.4522,-49.5449
+CXTL11,Atmosfera,"Rua Projetada A, 240",Xerém,RJ,Duque de Caxias,"7.671,38 m2","Rua Projetada A, 240, Duque de Caxias, RJ",-22.6174,-43.2001
+CXTL11,Ferla,"Avenida Portugal, 1046",Jardim Nova Itapevi,SP,Itapevi,"7.225,86 m2","Avenida Portugal, 1046, Itapevi, SP",-23.5419,-46.9253
+CXTL11,Schahin,"Avenida Lauro Roberto Vasconcelos Fonseca Filho, 200",Vale Encantado,RJ,Macaé,"4.714,00 m2","Avenida Lauro Roberto Vasconcelos Fonseca Filho, 200, Macaé, RJ",-22.3722,-41.7854
+DOMC11,Domo Corporate,"Rua José Versolato, 101",Baeta Neves,SP,São Bernardo do Campo,"30.600,60 m2","Rua José Versolato, 101, São Bernardo do Campo, SP",-23.6917,-46.5497
+DRIT11B,Nações Unidas,"Avenida Nações Unidas, 20000",Brooklin Novo,SP,São Paulo,"947,36 m2","Avenida Nações Unidas, 20000, São Paulo, SP",-22.3363,-49.0539
+DRIT11B,Pedra Grande,"Avenida Brig. Faria Lima, 1306",Pinheiros,SP,São Paulo,"1.576,34 m2","Avenida Brig. Faria Lima, 1306, São Paulo, SP",-22.9148,-47.0727
+DRIT11B,Platinum,"Alameda Santos, 787",Bela Vista,SP,São Paulo,"623,70 m2","Alameda Santos, 787, São Paulo, SP",-23.5676,-46.6513
+DRIT11B,Torre Sul,"Rua James Joule, 65",Berrini,SP,São Paulo,"865,58 m2","Rua James Joule, 65, São Paulo, SP",-23.611,-46.696
+EDFO11B,Edifício Ourinvest,"Avenida Paulista, 1728",Bela Vista,SP,São Paulo,"5.029,38 m2","Avenida Paulista, 1728, São Paulo, SP",-23.5606,-46.6572
+EURO11,CDA 1 - Módulos 1/2/3/4,"Via Anhanguera, km, 17,25",,SP,São Paulo,"22.865,30 m2","Via Anhanguera, km, 17,25, São Paulo, SP",-23.4105,-46.8144
+EURO11,CDA 2,"Rua Jornalista Paulo Zingg, 570",,SP,São Paulo,"1.929,40 m2","Rua Jornalista Paulo Zingg, 570, São Paulo, SP",-23.4853,-46.764
+EURO11,CDA 3,"Via Anhanguera, km, 17,25",,SP,São Paulo,"1.496,50 m2","Via Anhanguera, km, 17,25, São Paulo, SP",-23.4105,-46.8144
+EURO11,CDRIO-1,"Rua Sargente Aquino, 136",,RJ,Rio de Janeiro,"1.995,10 m2","Rua Sargente Aquino, 136, Rio de Janeiro, RJ",-22.8387,-43.2623
+EURO11,CDRIO-2,"Rua Comandante Vergueiro Cruz,206",,RJ,Rio de Janeiro,"4.409,51 m2","Rua Comandante Vergueiro Cruz,206, Rio de Janeiro, RJ",-22.8227,-43.3052
+EURO11,Laboratório Teste de Elevadores,"Avenida Interlagos,4.455",,SP,São Paulo,"3.298,00 m2","Avenida Interlagos,4.455, São Paulo, SP",-23.6833,-46.6906
+FAMB11B,Edifício Almirante Barroso,"Avenida Rio Branco, nº 174",Centro,RJ,Rio de Janeiro,"56.429,46 m2","Avenida Rio Branco, nº 174, Rio de Janeiro, RJ",-22.9075,-43.1769
+FCFL11,Insper – Instituto de Ensino e Pesquisa,"Rua Quatá, nº 300",Vila Olímpia,SP,São Paulo,"30.967,97 m2","Rua Quatá, nº 300, São Paulo, SP",-23.5987,-46.6767
+FFCI11,Candelaria Corporate,Rua da Candelária nº 65,Centro,RJ,Rio de Janeiro,"1.297,00 m2","Rua da Candelária nº 65, Rio de Janeiro, RJ",-22.8998,-43.1777
+FFCI11,Cetenco Plaza,Avenida Paulista 1842,Cerqueira Cesar,SP,São Paulo,"2.135,00 m2","Avenida Paulista 1842, São Paulo, SP",-23.5598,-46.658
+FFCI11,Continental Square,"Rua Olimpíadas, 205",Vila Olímpia,SP,São Paulo,"6.246,10 m2","Rua Olimpíadas, 205, São Paulo, SP",-23.5955,-46.6845
+FFCI11,Internacional Rio,Praia do Flamengo nº 154,Flamengo,RJ,Rio de Janeiro,"1.480,00 m2","Praia do Flamengo nº 154, Rio de Janeiro, RJ",-22.93,-43.1746
+FFCI11,Jatobá,"Rua Surubim, 373",Brooklin Novo,SP,São Paulo,"1.520,00 m2","Rua Surubim, 373, São Paulo, SP",-23.6014,-46.6926
+FFCI11,JK Financial Center,"Avenida Juscelino Kubitschek, 510",Itaim Bibi,SP,São Paulo,"5.155,00 m2","Avenida Juscelino Kubitschek, 510, São Paulo, SP",-23.5875,-46.6751
+FFCI11,Parque Cultural Paulista,"Avenida Paulista, 37",,SP,São Paulo,"2.031,00 m2","Avenida Paulista, 37, São Paulo, SP",-23.5708,-46.6452
+FFCI11,Parque Paulista,"Alameda Santos, 1940",Cerqueira César,SP,São Paulo,"1.151,00 m2","Alameda Santos, 1940, São Paulo, SP",-23.5605,-46.6594
+FFCI11,Parque Santos,"Alameda Santos, 1163",Cerqueira César,SP,São Paulo,"5.135,00 m2","Alameda Santos, 1163, São Paulo, SP",-23.5654,-46.654
+FIGS11,Parque Shopping Maia,"Avenida Bartolomeu de Carlos, 230",Jardim Flor da Montanha,SP,Guarulhos,"31.711,00 m2","Avenida Bartolomeu de Carlos, 230, Guarulhos, SP",-23.4446,-46.5377
+FIGS11,Shopping Bonsucesso,"EstRua Juscelino Kubtischek de Oliveira, 5308",Jd.Albertina,SP,Guarulhos,"24.293,00 m2","EstRua Juscelino Kubtischek de Oliveira, 5308, Guarulhos, SP",-23.433,-46.5117
+FIIB11,Perini Business Park,"Rua Dona Francisca, 8300",Distrito Industrial,SC,Joinville,"102.601,71 m2","Rua Dona Francisca, 8300, Joinville, SC",-26.2458,-48.8824
+FIIP11B,Ambev,"Rua Alfredo Pinto, 1405",Afonso Pena,PR,São José dos Pinhais,"10.376,55 m2","Rua Alfredo Pinto, 1405, São José dos Pinhais, PR",-25.4944,-49.1763
+FIIP11B,Barry Callebaut,"Rod. Ilhéus-Uruçuca, S/N",Iguape,BA,Ilhéus,"9.917,95 m2","Rod. Ilhéus-Uruçuca, S/N, Ilhéus, BA",-14.7402,-39.0734
+FIIP11B,C&A,"Rua Domingos Agostim, 91",Tatuapé,SP,São Paulo,"4.103,94 m2","Rua Domingos Agostim, 91, São Paulo, SP",-23.5421,-46.5762
+FIIP11B,Danfoss,"Rua Américo Vespúcio, 85",Vila Menck,SP,Osasco,"11.108,00 m2","Rua Américo Vespúcio, 85, Osasco, SP",-23.498,-46.767
+FIIP11B,Lojas Leader,"Rua Nelson Ramos, S/N",Centro,RJ,Nova Iguaçu,"3.076,06 m2","Rua Nelson Ramos, S/N, Nova Iguaçu, RJ",-22.7586,-43.4477
+FIIP11B,Magazine Luiza,"Rua Ronat Valter Sodré, 2672",Santa Paula,PR,Ibiporã,"23.121,59 m2","Rua Ronat Valter Sodré, 2672, Ibiporã, PR",-23.2776,-51.0648
+FIIP11B,Telhanorte,"Avenida General David Sarnoff, 4840",Cidade Industrial,MG,Contagem,"7.328,00 m2","Avenida General David Sarnoff, 4840, Contagem, MG",-19.9628,-44.0207
+FIVN11,Shopping Taboão Plaza Outlet,"Avenida Vida Nova, 28",Taboão da Serra,SP,São Paulo,"66.498,00 m2","Avenida Vida Nova, 28, São Paulo, SP",-23.5853,-46.8025
+FLMA11,Continental Square,"Rua Olimpíadas, 205",Vila Olímpia,SP,São Paulo,"22.921,74 m2","Rua Olimpíadas, 205, São Paulo, SP",-23.5955,-46.6845
+FLRP11,Florianópolis Shopping Center,"Rodovia Virgílio Várzea, nº 587, área 2",Saco Grande,SC,Florianópolis,"29.633,47 m2","Rodovia Virgílio Várzea, nº 587, área 2, Florianópolis, SC",-27.4421,-48.4655
+FMOF11,Edifício Memorial Office,"Rua Júlio Gonzáles, 132",Barra Funda,SP,São Paulo,"13.105,00 m2","Rua Júlio Gonzáles, 132, São Paulo, SP",-23.5262,-46.6711
+FPAB11,Torre New York e Los Angeles,"Avenida Francisco Matarazzo, 1.500",Barra Funda,SP,São Paulo,"35.810,72 m2","Avenida Francisco Matarazzo, 1.500, São Paulo, SP",-23.5258,-46.6771
+FVPQ11,Via Parque Shopping,"Avenida Ayrton Senna, 3000",Barra da Tijuca,RJ,Rio de Janeiro,"57.239,00 m2","Avenida Ayrton Senna, 3000, Rio de Janeiro, RJ",-22.9831,-43.3652
+GGRC11,AETHRA,Avenida Rui Barbosa nº 4.563,Iná,PR,São José dos Pinhais,"21.069,00 m2","Avenida Rui Barbosa nº 4.563, São José dos Pinhais, PR",-25.5047,-49.1707
+GGRC11,AMBEV,"Acesso pelo KM 117,5 Rodovia BR 101",Espinheiros,SC,Itajaí,"8.532,54 m2","Acesso pelo KM 117,5 Rodovia BR 101, Itajaí, SC",-26.9084,-48.6626
+GGRC11,AMBEV - PELOTAS,"AVENIDA PRESIDENTE JOAO BELCHIOR MARQUES GOULART, 9500",Fragata,RS,Pelotas,"9.912,60 m2","AVENIDA PRESIDENTE JOAO BELCHIOR MARQUES GOULART, 9500, Pelotas, RS",-31.7632,-52.3414
+GGRC11,CAMARGO EMBALAGENS,"Rua Álvaro Camerin, nº 51",Distrito Industrial,SP,Tietê,"13.306,13 m2","Rua Álvaro Camerin, nº 51, Tietê, SP",-23.1015,-47.7155
+GGRC11,CEPALGO EMBALAGENS FLEXÍVEIS LTDA,"Rodovia BR 153, s/n, quadra AREA, lote 00C, anexo A",Jardim Paraíso I,GO,Aparecida de Goiânia,"10.988,35 m2","Rodovia BR 153, s/n, quadra AREA, lote 00C, anexo A, Aparecida de Goiânia, GO",-16.8226,-49.2511
+GGRC11,COPOBRÁS,"Avenida Moita Bonita, 266",Pimentas,SP,Guarulhos,"11.502,42 m2","Avenida Moita Bonita, 266, Guarulhos, SP",-23.4673,-46.4282
+GGRC11,COPOBRÁS IND. E COMÉRCIO DE EMBALAGENS LTDA,"Rua Maria Rufino dos Santos Medeiros, 201",Distrito Industrial,PB,João Pessoa,"13.306,13 m2","Rua Maria Rufino dos Santos Medeiros, 201, João Pessoa, PB",-7.213,-34.8519
+GGRC11,HERING E SANTA CRUZ,"BR 153, 3469",Zona Urbana,GO,Anápolis,"78.850,50 m2","BR 153, 3469, Anápolis, GO",-16.3976,-48.9659
+GGRC11,JEFER PRODUTOS SIDERÚRGICOS - EIRELI,"Alameda das Aroeiras, 195",Casa Amarela,MG,Betim,"21.060,90 m2","Alameda das Aroeiras, 195, Betim, MG",-20.0135,-44.2231
+GGRC11,MOINHO - CASCAVEL,"Rodovia BR 467, Km 109,3",Jardim Canadá,PR,Cascavel,"5.680,00 m2","Rodovia BR 467, Km 109,3, Cascavel, PR",-25.3531,-49.169
+GGRC11,MOINHO – SÃO MIGUEL DO IGUAÇU,"BR-277, 690",Parque Industrial,PR,São Miguel do Iguaçu,"7.164,00 m2","BR-277, 690, São Miguel do Iguaçu, PR",-25.3986,-54.3154
+GGRC11,NISSEI,"Rodovia Contorno Norte, Nº 305",Roça Grande,PR,Colombo,"15.351,54 m2","Rodovia Contorno Norte, Nº 305, Colombo, PR",-25.3421,-49.2192
+GGRC11,TODIMO,"Rodovia Palmiro Paes de Barros, 290",Vista Alegre,MT,Cuiabá,"25.125,76 m2","Rodovia Palmiro Paes de Barros, 290, Cuiabá, MT",-15.6387,-56.0492
+GRLV11,GR Louveira,"Rua Atílio Biscuola, 1831",Terra Nobre,SP,Louveira,"55.202,00 m2","Rua Atílio Biscuola, 1831, Louveira, SP",-23.0825,-46.9704
+HGBS11,Goiabeiras Shopping Center,"Avenida José Monteiro de Figueiredo, 500",Duque de Caxias,MT,Cuiabá,"26.292,28 m2","Avenida José Monteiro de Figueiredo, 500, Cuiabá, MT",-15.5675,-56.0178
+HGBS11,I Fashion Outlet – Novo Hamburgo,Rodovia BR 116 Km 239,Rio Branco,RS,Novo Hamburgo,"20.440,00 m2","Rodovia BR 116 Km 239, Novo Hamburgo, RS",-29.6877,-51.142
+HGBS11,Mooca Plaza Shopping,"Rua Cap. Pacheco e Chaves, 313",Mooca,SP,São Paulo,"41.914,53 m2","Rua Cap. Pacheco e Chaves, 313, São Paulo, SP",-23.5813,-46.5938
+HGBS11,São Bernardo Plaza Shopping,"Avenida Rotary, 624",Centro,SP,São Bernardo do Campo,"42.629,30 m2","Avenida Rotary, 624, São Bernardo do Campo, SP",-23.7224,-46.5431
+HGBS11,Shopping Center Penha,"Rua DRua João Ribeiro, 304",Penha de Franca,SP,São Paulo,"29.641,92 m2","Rua DRua João Ribeiro, 304, São Paulo, SP",-23.6733,-46.6348
+HGBS11,Shopping Parque Dom Pedro,"Avenida Guilherme Campos, 500",Jardim Santa Genebra,SP,Campinas,"127.300,00 m2","Avenida Guilherme Campos, 500, Campinas, SP",-22.8459,-47.0615
+HGBS11,Tivoli Shopping Center,"Avenida St Bárbara, 777",Vila Mollon IV,SP,Santa Bárbara d’Oeste,"23.877,91 m2","Avenida St Bárbara, 777, Santa Bárbara d’Oeste, SP",-22.749,-47.3741
+HGBS11,Via Parque Shopping,"Avenida Ayrton Senna, 3000",Barra da Tijuca,RJ,Rio de Janeiro,"57.200,00 m2","Avenida Ayrton Senna, 3000, Rio de Janeiro, RJ",-22.9831,-43.3652
+HGJH11,Edifício Metropolitan,"Rua Amauri, 255",Faria Lima,SP,São Paulo,"10.215,00 m2","Rua Amauri, 255, São Paulo, SP",-23.581,-46.6828
+HGJH11,Edifício Platinum,"Rua Jerônimo da Veiga, 384",Itaim Bibi,SP,São Paulo,"2.398,00 m2","Rua Jerônimo da Veiga, 384, São Paulo, SP",-23.5818,-46.6828
+HGLG11,Air Liquide Campinas,"Rua Ronald Cladstone Negri, 557",Nova Aparecida,SP,Campinas,"1.723,00 m2","Rua Ronald Cladstone Negri, 557, Campinas, SP",-22.8557,-47.1356
+HGLG11,Brascabos Rio Claro,"Avenida Brasil, 3.464",Distrito Industrial,SP,Rio Claro,"11.492,00 m2","Avenida Brasil, 3.464, Rio Claro, SP",-22.3906,-47.5591
+HGLG11,Cremer Blumenau,"Rua Iguaçu, 291",Itoupava Seca,SC,Blumenau,"65.825,00 m2","Rua Iguaçu, 291, Blumenau, SC",-26.9121,-49.1202
+HGLG11,Ed. Albatroz – Gaia Ar,"Rod . Dom Pedro I, Km 90",,SP,Jarinu,"20.154,00 m2","Rod . Dom Pedro I, Km 90, Jarinu, SP",-23.0373,-46.7013
+HGLG11,Ed. Onix e Ed. Safira - Centro Empresarial Atibaia,"Avenida Tégula, 888",Pte. Alta,SP,Atibaia,"11.869,00 m2","Avenida Tégula, 888, Atibaia, SP",-23.0475,-46.6748
+HGLG11,Ed. Os Lusíadas – Barão de Mauá,"Rodovia Dom Pedro I, Km 87",,SP,Atibaia,"6.232,00 m2","Rodovia Dom Pedro I, Km 87, Atibaia, SP",-23.0774,-46.6374
+HGLG11,Gerdau Rio de Janeiro,"Estrada do Pedregoso, 900",Campo Grande,RJ,Rio de Janeiro,"16.532,00 m2","Estrada do Pedregoso, 900, Rio de Janeiro, RJ",-22.8711,-43.5597
+HGLG11,Lojas Americanas Uberlândia,"BR - 497, Km 1480",Jardim Europa,MG,Uberlândia,"89.197,00 m2","BR - 497, Km 1480, Uberlândia, MG",-18.9247,-48.272
+HGLG11,Master Offices,"Avenida Guido Caloi, 1.935",Santo Amaro,SP,São Paulo,"14.359,00 m2","Avenida Guido Caloi, 1.935, São Paulo, SP",-23.6608,-46.7255
+HGLG11,Tech Town,"Rodovia SP 101, Km 9",,SP,Hortolândia,"7.885,00 m2","Rodovia SP 101, Km 9, Hortolândia, SP",-22.8992,-47.1959
+HGLG11,Tetra Pak Monte Mor,"Rua Tobias Bueno de Oliveira, 701",Chapéu de Sol,SP,Monte Mor,"24.696,00 m2","Rua Tobias Bueno de Oliveira, 701, Monte Mor, SP",-22.9529,-47.3001
+HGRE11,BB Antônio das Chagas,Rua Antônio das Chagas 1.657,Chácara Santo Antônio,SP,São Paulo,"4.259,00 m2","Rua Antônio das Chagas 1.657, São Paulo, SP",-23.6291,-46.7046
+HGRE11,Berrini One,"Avenida Engenheiro Luís Carlos Berrini, 105",Brooklin Paulista,SP,São Paulo,"8.657,00 m2","Avenida Engenheiro Luís Carlos Berrini, 105, São Paulo, SP",-23.5985,-46.6906
+HGRE11,Centro Empresarial Cidade Nova - Teleporto,"Avenida Pres. Vargas, 3.131",Cidade Nova,RJ,Rio de Janeiro,"2.300,00 m2","Avenida Pres. Vargas, 3.131, Rio de Janeiro, RJ",-22.9099,-43.2045
+HGRE11,Centro Empresarial de São Paulo,"Avenida Maria Coelho Aguiar, 215",Santo Amaro,SP,São Paulo,"2.844,00 m2","Avenida Maria Coelho Aguiar, 215, São Paulo, SP",-23.6484,-46.7316
+HGRE11,Centro Empresarial Dom Pedro,"Rodovia D. Pedro I, Km 69",,SP,Atibaia,"19.558,00 m2","Rodovia D. Pedro I, Km 69, Atibaia, SP",-23.0774,-46.6374
+HGRE11,Centro Empresarial Guaíba,"Avenida Dolores Alcaraz Caldas, 90",,RS,Porto Alegre,"10.660,00 m2","Avenida Dolores Alcaraz Caldas, 90, Porto Alegre, RS",-30.0459,-51.2303
+HGRE11,Centro Empresarial Mario Garnero,"Avenida Brigadeiro Faria Lima, 1.485",Faria Lima,SP,São Paulo,"5.116,00 m2","Avenida Brigadeiro Faria Lima, 1.485, São Paulo, SP",-23.5704,-46.6908
+HGRE11,Contax Alegria,"Rua Alegria, 96",Brás,SP,São Paulo,"19.050,00 m2","Rua Alegria, 96, São Paulo, SP",-23.5501,-46.6166
+HGRE11,Ed. Brasilinterpart,"Avenida das Nações Unidas, 11.633",Berrini,SP,São Paulo,"890,00 m2","Avenida das Nações Unidas, 11.633, São Paulo, SP",-23.6021,-46.6951
+HGRE11,Ed. Delta Plaza,"Rua Cincinato Braga, 340",Paulista,SP,São Paulo,"3.856,00 m2","Rua Cincinato Braga, 340, São Paulo, SP",-23.568,-46.6463
+HGRE11,Ed. Faria Lima,"Avenida Brigadeiro Faria Lima, 1.355",Faria Lima,SP,São Paulo,"4.440,00 m2","Avenida Brigadeiro Faria Lima, 1.355, São Paulo, SP",-23.5695,-46.6913
+HGRE11,Ed. Jatobá CBOP,"Avenida Marcos Penteado Ulhôa Rodrigues, 940",,SP,Barueri,"18.289,00 m2","Avenida Marcos Penteado Ulhôa Rodrigues, 940, Barueri, SP",-23.5065,-46.8357
+HGRE11,Ed. Park Tower - Torre II,Avenida Magalhães de Castro 4.800,Morumbi,SP,São Paulo,"1.464,00 m2","Avenida Magalhães de Castro 4.800, São Paulo, SP",-23.6014,-46.6978
+HGRE11,Ed. Paulista Star,"Alameda Campinas, 1.070",Paulista,SP,São Paulo,"10.593,00 m2","Alameda Campinas, 1.070, São Paulo, SP",-23.5697,-46.6571
+HGRE11,Ed. Roberto Sampaio Ferreira,"Rua Flórida, 1.595",Berrini,SP,São Paulo,"3.520,00 m2","Rua Flórida, 1.595, São Paulo, SP",-23.6077,-46.6934
+HGRE11,Ed. Verbo Divino,"Rua Verbo Divino, 1.661",Chácara Santo Antônio,SP,São Paulo,"13.980,00 m2","Rua Verbo Divino, 1.661, São Paulo, SP",-23.6312,-46.7113
+HGRE11,Empresarial Transatlântico,"Rua Verbo Divino, 1.488",Chácara Santo Antônio,SP,São Paulo,"1.580,00 m2","Rua Verbo Divino, 1.488, São Paulo, SP",-23.631,-46.7093
+HGRE11,GVT Curitiba,"Rua Francisco Nunes, 1.395",,PR,Curitiba,"7.700,00 m2","Rua Francisco Nunes, 1.395, Curitiba, PR",-25.4536,-49.2549
+HGRE11,Sercom Taboão,"Rua José Mari, 80",,SP,Taboão da Serra,"16.488,00 m2","Rua José Mari, 80, Taboão da Serra, SP",-23.6064,-46.7634
+HGRE11,Torre Rio Sul,"Rua Lauro Muller, 116",Botafogo,RJ,Rio de Janeiro,"1.677,00 m2","Rua Lauro Muller, 116, Rio de Janeiro, RJ",-22.9568,-43.1764
+HGRU11,IBMEC BARRA,"Avenida Armando Lombardi, 940",Barra da Tijuca,RJ,Rio de Janeiro,"8.040,00 m2","Avenida Armando Lombardi, 940, Rio de Janeiro, RJ",-23.0062,-43.3136
+HMOC11,Condomínio do Shopping Praça da Moça,"Rua Manoel da Nobrega, 712",Centro,SP,Diadema,"29.784,27 m2","Rua Manoel da Nobrega, 712, Diadema, SP",-23.6913,-46.623
+JSRE11,Ed. Praia de Botafogo,"Praia de Botafogo, 440",Botafogo,RJ,Rio de Janeiro,"717,00 m2","Praia de Botafogo, 440, Rio de Janeiro, RJ",-22.9486,-43.1828
+JSRE11,WTNU III,"Rua Eugênio de Medeiros , 303",Pinheiros,SP,São Paulo,"15.867,00 m2","Rua Eugênio de Medeiros , 303, São Paulo, SP",-23.5688,-46.7005
+KNRI11,Athenas,"Rua Doutor Fernandes Coelho, 64",Pinheiros,SP,São Paulo,"6.230,00 m2","Rua Doutor Fernandes Coelho, 64, São Paulo, SP",-23.5687,-46.69
+KNRI11,Bela Paulista,"Avenida Paulista, 2.421",Consolação,SP,São Paulo,"6.521,00 m2","Avenida Paulista, 2.421, São Paulo, SP",-23.5566,-46.6622
+KNRI11,Botafogo Trade Center,"Avenida Prof. Álvaro Rodrigues, 352",Botafogo,RJ,Rio de Janeiro,"8.083,00 m2","Avenida Prof. Álvaro Rodrigues, 352, Rio de Janeiro, RJ",-22.9524,-43.1846
+KNRI11,Buenos Aires Corporate,"Rua Buenos Aires, 15",Centro,RJ,Rio de Janeiro,"6.855,00 m2","Rua Buenos Aires, 15, Rio de Janeiro, RJ",-22.9019,-43.1766
+KNRI11,Centro de Distribuição Bandeirantes ,"Rodovia dos Bandeirantes, Km 68",Poste,SP,Louveira,"99.279,00 m2","Rodovia dos Bandeirantes, Km 68, Louveira, SP",-23.1164,-46.995
+KNRI11,Centro de Distribuição Itaqua,"Rua do Níquel, 205",,SP,Itaquaquecetuba,"30.698,00 m2","Rua do Níquel, 205, Itaquaquecetuba, SP",-23.4402,-46.3336
+KNRI11,Centro de Distribuição Mogi das Cruzes,"Rodovia Pedro Eroles, Km 41,5",Taboão,SP,Mogi das Cruzes,"69.113,25 m2","Rodovia Pedro Eroles, Km 41,5, Mogi das Cruzes, SP",-23.4453,-46.2501
+KNRI11,Centro de Distribuição Pouso Alegre,"Rodovia Fernão Dias, Km 863",Algodão,MG,Pouso Alegre,"87.750,00 m2","Rodovia Fernão Dias, Km 863, Pouso Alegre, MG",-22.3163,-45.9049
+KNRI11,Centro de Distribuição Santa Cruz ,"Estrada da Lama Preta, s/n",Santa Cruz,RJ,Rio de Janeiro,"49.306,00 m2","Estrada da Lama Preta, s/n, Rio de Janeiro, RJ",-22.8696,-43.6462
+KNRI11,Ed. Boulevard Corporate Tower,Avenida dos Andradas 3000,Santa Efigênia,MG,Belo Horizonte,"20.461,00 m2","Avenida dos Andradas 3000, Belo Horizonte, MG",-19.9201,-43.9204
+KNRI11,Edifício Lagoa Corporate,"Rua Humaitá, 275",Humaitá,RJ,Rio de Janeiro,"11.687,00 m2","Rua Humaitá, 275, Rio de Janeiro, RJ",-22.7739,-43.354
+KNRI11,Edifício Madison,"Rua Gomes de Carvalho, 1.195",Vila Olímpia,SP,São Paulo,"8.432,00 m2","Rua Gomes de Carvalho, 1.195, São Paulo, SP",-23.5975,-46.6846
+KNRI11,Global Jundiaí,"Avenida Caminho de Goias, 100",Jardim São Bento,SP,Jundiaí,"41.468,00 m2","Avenida Caminho de Goias, 100, Jundiaí, SP",-23.131,-46.9468
+KNRI11,Joaquim Floriano,"Rua Joaquim Floriano, 913",Itaim,SP,São Paulo,"3.197,00 m2","Rua Joaquim Floriano, 913, São Paulo, SP",-23.5858,-46.6789
+KNRI11,Jundiaí Industrial Park,"Rodovia Hermenegildo Tonolli, km 02",Fazenda Grande,SP,Jundiaí,"75.975,60 m2","Rodovia Hermenegildo Tonolli, km 02, Jundiaí, SP",-23.1763,-46.9824
+KNRI11,PIB Sumaré,"Rua Floravante Mancino, 1560",Chácara Monte Alegre,SP,Sumaré,"13.600,00 m2","Rua Floravante Mancino, 1560, Sumaré, SP",-22.8056,-47.2457
+LVBI11,Galpão - Extrema,"Rodovia Fernão Dias, KM 947,5",,MG,Extrema,"97.822,22 m2","Rodovia Fernão Dias, KM 947,5, Extrema, MG",-22.8354,-46.3198
+LVBI11,Galpão - Guarulhos,Rua Manoel Borba Gato 100,Vila Saiago,SP,Guarulhos,"24.415,99 m2","Rua Manoel Borba Gato 100, Guarulhos, SP",-23.4014,-46.3972
+MALL11,Maceio Shopping,"Avenida Gustavo Paiva, 2990",Mangabeiras,AL,Maceió,"76.310,81 m2","Avenida Gustavo Paiva, 2990, Maceió, AL",-9.6471,-35.7151
+MBRF11,Agência Rio Branco,Avenida Rio Branco,Centro,RJ,Rio de Janeiro,"748,00 m2","Avenida Rio Branco, Rio de Janeiro, RJ",-22.9108,-43.1755
+MBRF11,Edifício Sede,"Rua Rio de Janeiro, 654",Centro,MG,Belo Horizonte,"16.468,00 m2","Rua Rio de Janeiro, 654, Belo Horizonte, MG",-19.92,-43.9391
+MFII11,Dahma Fit,Fazenda Capão Alto,,MG,Uberaba,m2,"Fazenda Capão Alto, Uberaba, MG",-19.7226,-47.916
+MFII11,Dona Amélia,Gleba 47 Qt 30.027,,SP,Campinas,m2,"Gleba 47 Qt 30.027, Campinas, SP",-22.9425,-47.0828
+MFII11,Golden Boituva,Estrada Municipal BTV 250,,SP,Boituva,m2,"Estrada Municipal BTV 250, Boituva, SP",-23.2502,-47.6915
+MFII11,Jardins da Serra,"Avenida Padre José de Holanda do Vale, 600",Luzardo Viana,CE,Maracanaú,m2,"Avenida Padre José de Holanda do Vale, 600, Maracanaú, CE",-3.8637,-38.6335
+MFII11,MaxHaus,Rua Castro Alves 83,Embaré,SP,Santos,m2,"Rua Castro Alves 83, Santos, SP",-23.9692,-46.3176
+MFII11,Residencial Campo Verde,Bairro da Geada,,SP,Iracemópolis,m2,"Bairro da Geada, Iracemópolis, SP",-22.5679,-47.4408
+MFII11,Terras da Estância,Avenida Luiz Greco 500,Vila Monte Alegre IV,SP,Paulínia,m2,"Avenida Luiz Greco 500, Paulínia, SP",-22.7751,-47.1722
+MFII11,Villa Bazzano,Rua João Ramalho 40,Barra da Lagoa,SP,Ubatuba,m2,"Rua João Ramalho 40, Ubatuba, SP",-23.4736,-45.0701
+MFII11,Way Parque das Nações,Avenida Estados unidos 92,Parque das Nações,SP,Santo André,m2,"Avenida Estados unidos 92, Santo André, SP",-23.6382,-46.5276
+NVHO11,Hospital São Luiz,"Rua Doutor Alceu de Campos Rodrigues, 95",Itaim Bibi,SP,São Paulo,"30.359,18 m2","Rua Doutor Alceu de Campos Rodrigues, 95, São Paulo, SP",-23.5904,-46.6735
+ONEF11,The One,"Rua Ministro Jesuíno Cardoso, 454",Itaim Bibi,SP,São Paulo,"6.015,00 m2","Rua Ministro Jesuíno Cardoso, 454, São Paulo, SP",-23.5926,-46.682
+PABY11,Condomínio Villaggio Panamby,"Rua Itapaiúna, 1800",Vila Andrade,SP,São Paulo,m2,"Rua Itapaiúna, 1800, São Paulo, SP",-23.6372,-46.7272
+PQDP11,Shopping Parque D. Pedro,"Avenida Guilherme Campos, nº 500",Santa Genebra,SP,Campinas,"127.000,00 m2","Avenida Guilherme Campos, nº 500, Campinas, SP",-22.8459,-47.0615
+PRSV11,Edifício Torre Boa Vista,"Avenida Presidente Vargas, nº 850",Centro,RJ,Rio de Janeiro,"10.922,00 m2","Avenida Presidente Vargas, nº 850, Rio de Janeiro, RJ",-22.9025,-43.1839
+PRSV11,Edifício Torre Vargas,"Avenida Presidente Vargas, nº 914",Centro,RJ,Rio de Janeiro,"6.435,00 m2","Avenida Presidente Vargas, nº 914, Rio de Janeiro, RJ",-22.9028,-43.1848
+RBBV11,Fazenda Boa Vista,"Rodovia Presidente Castelo Branco, Km 102,5, s/n",Indaiatuba,SP,Porto Feliz,m2,"Rodovia Presidente Castelo Branco, Km 102,5, s/n, Porto Feliz, SP",-23.3359,-47.5464
+RBGS11,Parque Shopping Sulacap,"Avenida Marechal Fontenele, 3545",Jardim Sulacap,RJ,Rio de Janeiro,"28.755,71 m2","Avenida Marechal Fontenele, 3545, Rio de Janeiro, RJ",-22.8851,-43.4031
+RBRD11,Ambev,"Rodovia 497, Km 2 , Anel Viário Ayrton Senna, S/n",Luizote de Freitas,MG,Uberlândia,m2,"Rodovia 497, Km 2 , Anel Viário Ayrton Senna, S/n, Uberlândia, MG",-18.9694,-48.3692
+RBRD11,Ampla,"Rua DRua Nilo Peçanha, 546",Centro,RJ,São Gonçalo,m2,"Rua DRua Nilo Peçanha, 546, São Gonçalo, RJ",-22.8192,-43.0334
+RBRD11,Leader,"Rua do Catete, 194E / 196",Glória,RJ,Rio de Janeiro,m2,"Rua do Catete, 194E / 196, Rio de Janeiro, RJ",-22.9274,-43.1769
+RBRD11,Leader,"Rua João Pessoa, 86",Cidade Alta,RN,Natal,m2,"Rua João Pessoa, 86, Natal, RN",-5.7864,-35.2077
+RDES11,Ed. EmpRua Center I,"Rua Padre Carapuceiro, 733",,PE,Recife,"4.248,00 m2","Rua Padre Carapuceiro, 733, Recife, PE",-8.117,-34.9023
+RDES11,Ed. EmpRua Center II,"Rua Antonio Lumack de Monte, 96",,PE,Recife,"4.035,00 m2","Rua Antonio Lumack de Monte, 96, Recife, PE",-8.1178,-34.9026
+RDES11,Ed. Suarez Trade,"Avenida Tancredo Neves, 450",,BA,Salvador,"4.620,00 m2","Avenida Tancredo Neves, 450, Salvador, BA",-12.9787,-38.4619
+RDES11,Ed. Tenente Negrão,"Rua Tenente Negrão, 166",,SP,São Paulo,"4.052,00 m2","Rua Tenente Negrão, 166, São Paulo, SP",-23.5852,-46.6723
+RNGO11,Edifício Demini,"Alameda Rio Negro, 585",Alphaville,SP,Barueri,"16.008,00 m2","Alameda Rio Negro, 585, Barueri, SP",-23.4995,-46.8485
+RNGO11,Edifício Padauiri,"Alameda Rio Negro, 585",Alphaville,SP,Barueri,"15.964,00 m2","Alameda Rio Negro, 585, Barueri, SP",-23.4995,-46.8485
+RNGO11,Lojas,"Alameda Rio Negro, 585",Alphaville,SP,Barueri,"1.719,00 m2","Alameda Rio Negro, 585, Barueri, SP",-23.4995,-46.8485
+SAAG11,Avenida Paulista,"Avenida Paulista , nº 436",Bela Vista,SP,São Paulo,"2.857,24 m2","Avenida Paulista , nº 436, São Paulo, SP",-23.5684,-46.6478
+SAAG11,Barão de Jundiaí,"Rua Barão de Jundiaí , nº 884",Centro,SP,Jundiaí,"6.438,52 m2","Rua Barão de Jundiaí , nº 884, Jundiaí, SP",-23.187,-46.8845
+SAAG11,Belo Horizonte I,"Avenida . João Pinheiro , nº 500",Centro,MG,Belo Horizonte,"4.192,00 m2","Avenida . João Pinheiro , nº 500, Belo Horizonte, MG",-19.9295,-43.9376
+SAAG11,Belo Horizonte II,"Praça Tiradentes , nº 85",Centro,MG,Belo Horizonte,"2.156,00 m2","Praça Tiradentes , nº 85, Belo Horizonte, MG",-19.9296,-43.9317
+SAAG11,Berrini,"Avenida . Eng . Luiz Carlos Berrini , nº 1307",Brooklin Paulista,SP,São Paulo,"1.873,73 m2","Avenida . Eng . Luiz Carlos Berrini , nº 1307, São Paulo, SP",-23.6083,-46.6938
+SAAG11,Candelária,"Rua Buenos Aires , nº 48/48 - A",Centro,RJ,Rio de Janeiro,"1.040,00 m2","Rua Buenos Aires , nº 48/48 - A, Rio de Janeiro, RJ",-22.9022,-43.178
+SAAG11,Cons . Rodrigues Alves,"Rua Cons . Rodrigues Alves , nº 53",Vila Mariana,SP,São Paulo,"1.093,00 m2","Rua Cons . Rodrigues Alves , nº 53, São Paulo, SP",-23.7445,-46.6624
+SAAG11,Duque de Caxias,"Rua Duque de Caxias , nº 200",Campo Eliseos,SP,São Paulo,"2.107,31 m2","Rua Duque de Caxias , nº 200, São Paulo, SP",-23.6679,-46.4492
+SAAG11,Floriano Peixoto,"Rua Floriano Peixoto , nº 915",Centro,CE,Fortaleza,"2.220,00 m2","Rua Floriano Peixoto , nº 915, Fortaleza, CE",-3.7306,-38.5281
+SAAG11,Juiz de Fora,"Avenida Barão do Rio Branco , nº 2.519",Centro,MG,Juiz de Fora,"2.918,00 m2","Avenida Barão do Rio Branco , nº 2.519, Juiz de Fora, MG",-21.7639,-43.3488
+SAAG11,Liberdade,"Avenida da Liberdade , nº 151",São Paulo/SP,SP,São Paulo,"5.001,70 m2","Avenida da Liberdade , nº 151, São Paulo, SP",-23.5543,-46.6352
+SAAG11,Marechal Deodoro,"Rua Marechal Deodoro , nº 460",Centro,SP,São Bernando do Campo,"1.615,46 m2","Rua Marechal Deodoro , nº 460, São Bernando do Campo, SP",-23.7021,-46.5522
+SAAG11,Monções,"Avenida Santo Amaro , nº 3.330",Brooklin Paulista,SP,São Paulo,"882,00 m2","Avenida Santo Amaro , nº 3.330, São Paulo, SP",-23.6133,-46.6785
+SAAG11,Monsenhor Celso,"Rua Monsenhor Celso , nº 154",Centro,PR,Paraná,"2.182,85 m2","Rua Monsenhor Celso , nº 154, Paraná, PR",-25.4315,-49.2705
+SAAG11,Nova Paulista,"Avenida . Paulista , nº 726",Bela Vista,SP,São Paulo,"693,32 m2","Avenida . Paulista , nº 726, São Paulo, SP",-23.5668,-46.6498
+SAAG11,Olivetti - Paulista,"Avenida Paulista , nº 447",Paraíso,SP,São Paulo,"1.010,00 m2","Avenida Paulista , nº 447, São Paulo, SP",-23.5688,-46.648
+SAAG11,Ouvidor,"Avenida Rio Branco , nº 115",Centro,RJ,Rio de Janeiro,"1.240,00 m2","Avenida Rio Branco , nº 115, Rio de Janeiro, RJ",-22.9034,-43.178
+SAAG11,Pedro I,"Rua Pedro Primeiro , nº 373",Centro,CE,Fortaleza,"2.511,00 m2","Rua Pedro Primeiro , nº 373, Fortaleza, CE",-3.803,-38.5675
+SAAG11,Porto Alegre,Rua Sete de Setembro nº 1.100,Centro Historico,RS,Porto Alegre,"2.106,79 m2","Rua Sete de Setembro nº 1.100, Porto Alegre, RS",-30.0288,-51.2296
+SAAG11,Praça Pio X,Praça Pio X nº 78/78 - A,Centro,RJ,Rio de Janeiro,"1.964,00 m2","Praça Pio X nº 78/78 - A, Rio de Janeiro, RJ",-22.9004,-43.1779
+SAAG11,Recife,"Rua do Imperador Pedro II , nº 255",Centro,PE,Recife,"2.356,94 m2","Rua do Imperador Pedro II , nº 255, Recife, PE",-8.0627,-34.8769
+SAAG11,Rio - Centro,"Rua Quitanda , nº 70",Centro,RJ,Rio de Janeiro,"1.928,09 m2","Rua Quitanda , nº 70, Rio de Janeiro, RJ",-22.9033,-43.1768
+SAAG11,Santo André,"Rua Senador Flaquer , nº 305",Centro,SP,Santo André,"6.242,43 m2","Rua Senador Flaquer , nº 305, Santo André, SP",-23.6612,-46.5248
+SAAG11,Santos,"Praça Visconde de Mauá , nº 20",Centro,SP,Santos,"4.505,00 m2","Praça Visconde de Mauá , nº 20, Santos, SP",-23.9331,-46.3292
+SAAG11,São Gonçalo - Alcântara,"Rua João de Almeida , nº 72",Alcantara,RJ,São Gonçalo,"1.089,68 m2","Rua João de Almeida , nº 72, São Gonçalo, RJ",-22.821,-43.003
+SAAG11,São Gonçalo - Centro,"Rua Dr . Feliciano Sodré , nº 111",Centro,RJ,São Gonçalo,"951,00 m2","Rua Dr . Feliciano Sodré , nº 111, São Gonçalo, RJ",-22.8249,-43.0494
+SAAG11,São Mateus,"Avenida Mateo Bei , nº 3.286",Cidade São Mateus,SP,São Paulo,"2.050,00 m2","Avenida Mateo Bei , nº 3.286, São Paulo, SP",-23.6103,-46.477
+SAAG11,Volta Redonda,"Rua Doze , nº 239",,RJ,Volta Redonda,"2.920,00 m2","Rua Doze , nº 239, Volta Redonda, RJ",-22.5169,-44.107
+SCPF11,Shopping Center Piedade,"Rua Junqueira Ayres, 165",Barris,BA,Salvador,"4.578,32 m2","Rua Junqueira Ayres, 165, Salvador, BA",-12.9839,-38.5135
+SDIL11,Multi Modal Duque de Caxias,"Rua de Acesso 3, Quadra ""F"", Lt. 1, International Business Park",Jardim Camacho,RJ,Duque de Caxias,"44.131,00 m2","Rua de Acesso 3, Quadra ""F"", Lt. 1, International Business Park, Duque de Caxias, RJ",-22.7874,-43.313
+SHPH11,Shopping Pátio Higienópolis,"Rua DRua Veiga Filho, 133",Higienópolis,SP,São Paulo,"35.500,00 m2","Rua DRua Veiga Filho, 133, São Paulo, SP",-23.4998,-46.6965
+SPTW11,Imóvel Badaró,"Rua Líbero Badaró, 633",Centro,SP,São Paulo,"19.871,08 m2","Rua Líbero Badaró, 633, São Paulo, SP",-23.5443,-46.635
+SPTW11,Imóvel Belenzinho,"Rua Padre Adelino, 550",Quarta Parada,SP,São Paulo,"11.911,45 m2","Rua Padre Adelino, 550, São Paulo, SP",-23.545,-46.5887
+TBOF11,Tower Bridge Corporate,"Avenida Jornalista Roberto Marinho, nº 85",,SP,São Paulo,"56.531,55 m2","Avenida Jornalista Roberto Marinho, nº 85, São Paulo, SP",-23.6119,-46.6976
+THRA11,Edifício Thera Corporate,"Avenida Engenheiro Luís Carlos Berrini, 105",Brooklin Paulista,SP,São Paulo,"10.586,16 m2","Avenida Engenheiro Luís Carlos Berrini, 105, São Paulo, SP",-23.5985,-46.6906
+TRNT11,Torre Norte,"Avenida das Nações Unidas, nº 12.901",,SP,São Paulo,"55.729,63 m2","Avenida das Nações Unidas, nº 12.901, São Paulo, SP",-23.6095,-46.6976
+TRXL11,Ceratti,"Rod. SP 324, Km 79,5",Área Industrial,SP,Vinhedo,"13.851,22 m2","Rod. SP 324, Km 79,5, Vinhedo, SP",-23.0596,-46.9925
+TRXL11,Imóvel Dutra,"Estrada Rio D'ouro, s/n",Parque Columbia,RJ,Rio de Janeiro,"17.243,57 m2","Estrada Rio D'ouro, s/n, Rio de Janeiro, RJ",-22.8133,-43.3474
+TRXL11,Imóvel Navegantes,"Rua Santa Catarina, s/n",Nossa Sra. das Gracas,SC,Navegantes,"9.793,66 m2","Rua Santa Catarina, s/n, Navegantes, SC",-26.8718,-48.6848
+TRXL11,Imóvel Parque Novo Mundo,"Rua Srg. Rodoval Cabral Trindade, s/n",Parque Novo Mundo,SP,São Paulo,"30.804,00 m2","Rua Srg. Rodoval Cabral Trindade, s/n, São Paulo, SP",-23.5046,-46.564
+TRXL11,Itambé,"Rua Jerônimo Téles Júnior, 54",Vila Pirituba,SP,São Paulo,"8.057,75 m2","Rua Jerônimo Téles Júnior, 54, São Paulo, SP",-23.5011,-46.7516
+TRXL11,Magna,Engenheiro Miguel Melhado Campos,Área Industrial,SP,Vinhedo,"10.439,27 m2","Engenheiro Miguel Melhado Campos, Vinhedo, SP",-23.0606,-46.9932
+VISC11,Center Shopping Rio,"Avenida Geremário Dantas, 404",Jacarepagua,RJ,Rio de Janeiro,"15.163,00 m2","Avenida Geremário Dantas, 404, Rio de Janeiro, RJ",-22.925,-43.3608
+VISC11,Crystal Shopping,"Rua Comendador Araújo, 731",Batel,PR,Curitiba,"14.120,00 m2","Rua Comendador Araújo, 731, Curitiba, PR",-25.4373,-49.2803
+VISC11,Ilha Plaza,"Avenida Maestro Paulo e Silva, 400",Jardim Carioca,RJ,Rio de Janeiro,"21.615,00 m2","Avenida Maestro Paulo e Silva, 400, Rio de Janeiro, RJ",-22.8015,-43.2018
+VISC11,Shopping Granja Vianna,"Rodovia Raposo Tavares, km 23.5",Lageadinho,SP,Cotia,"30.463,00 m2","Rodovia Raposo Tavares, km 23.5, Cotia, SP",-23.5955,-46.8673
+VISC11,Shopping  Iguatemi  Fortaleza,"Avenida Washington Soares, 85",Edson Queiroz,CE,Fortaleza,"90.016,00 m2","Avenida Washington Soares, 85, Fortaleza, CE",-3.7573,-38.4896
+VISC11,Shopping Paralela,"Avenida Luís Viana, 8544",Alphaville,BA,Salvador,"40.247,00 m2","Avenida Luís Viana, 8544, Salvador, BA",-12.9358,-38.3953
+VISC11,Shopping Pátio Belém,"Tv. Padre Eutíquio, 1078",Batista Campos,PA,Belém,"21.567,00 m2","Tv. Padre Eutíquio, 1078, Belém, PA",-1.4579,-48.4954
+VISC11,Shopping  Tacaruna,"Avenida Gov. Agamenon Magalhães, 153",Santo Amaro,PE,Recife,"44.950,00 m2","Avenida Gov. Agamenon Magalhães, 153, Recife, PE",-8.0607,-34.8982
+VISC11,West Shopping,"EstRua do Mendanha, 555",Campo Grande,RJ,Rio de Janeiro,"41.405,00 m2","EstRua do Mendanha, 555, Rio de Janeiro, RJ",-22.8843,-43.5575
+VLOL11,Vila Olímpia Corporate,"Rua Fidêncio Ramos, 302",Vila Olimpia,SP,São Paulo,"10.368,28 m2","Rua Fidêncio Ramos, 302, São Paulo, SP",-23.5947,-46.6861
+VSHO11,SHOPPING BAY MARKET,"Avenida Visconde do Rio Branco, 360",Centro,RJ,Niterói,"12.043,00 m2","Avenida Visconde do Rio Branco, 360, Niterói, RJ",-22.8923,-43.124
+VSHO11,SHOPPING HORTOLÂNDIA,"Rua José Camilo de Camargo, 5",Remanso Campineiro,SP,Hortolândia,"20.055,00 m2","Rua José Camilo de Camargo, 5, Hortolândia, SP",-22.863,-47.214
+VSHO11,SHOPPING VALINHOS,"Rua Paiquerê, 200",Jardim Paiquere,SP,Valinhos,"13.728,00 m2","Rua Paiquerê, 200, Valinhos, SP",-22.9813,-47.0117
+WPLZ11,Shopping West Plaza,"Avenida Francisco Matarazzo, s/n",Água Branca,SP,São Paulo,"33.799,34 m2","Avenida Francisco Matarazzo, s/n, São Paulo, SP",-23.5257,-46.68
+XPCM11,The Corporate,"Avenida Prefeito Aristeu Ferreira da Silva, 370",Bairro dos Cavaleiros,RJ,Macaé,"18.641,00 m2","Avenida Prefeito Aristeu Ferreira da Silva, 370, Macaé, RJ",-22.3955,-41.8146
+XPIN11,Centro Empresarial Atibaia (CEA),"Avenida Tégula, 444",Pte. Alta,SP,Atibaia,"17.175,00 m2","Avenida Tégula, 444, Atibaia, SP",-23.0475,-46.6748
+XPIN11,Condomínio Barão de Mauá,Pte. Alta,Pte. Alta,SP,Atibaia,"50.679,00 m2","Pte. Alta, Atibaia, SP",-23.1173,-46.5499
+XPLG11,CD Dia%,"Rua João de Padula, 245",Vila Bertini,SP,Americana,"30.098,00 m2","Rua João de Padula, 245, Americana, SP",-22.7211,-47.3632
+XPLG11,CD Dia% Ribeirão,"Via José Luiz Galvão, 1.905",Bom Jesus,SP,Ribeirão Preto,"21.136,00 m2","Via José Luiz Galvão, 1.905, Ribeirão Preto, SP",-21.1327,-47.8598
+XPLG11,CD Leroy,"Rod. dos Bandeirantes, KM 34",Condomínio Vila Verde,SP,Cajamar,"110.163,00 m2","Rod. dos Bandeirantes, KM 34, Cajamar, SP",-23.3122,-46.8271
+XPLG11,CD Panasonic,"Estrada Municipal do Mandu, 250",Santa Inês,MG,Itapeva,"23.454,00 m2","Estrada Municipal do Mandu, 250, Itapeva, MG",-23.969,-48.9106
+XPLG11,CD Via Varejo,"Rua Lenine Queiroz, 333",Distrito Industrial,RS,Cachoeirinha,"38.410,00 m2","Rua Lenine Queiroz, 333, Cachoeirinha, RS",-29.949,-51.0957
+XPML11,Catarina Fashion Outlet,"Rodovia Castello  Branco, km. 60",,SP,São Roque,"29.506,00 m2","Rodovia Castello  Branco, km. 60, São Roque, SP",-23.4225,-47.1583
+XPML11,Caxias Shopping,"Rodovia Washington Luiz, 2.895",Parque Duque,RJ,Duque de Caixas,"25.558,00 m2","Rodovia Washington Luiz, 2.895, Duque de Caixas, RJ",-22.7861,-43.2857
+XPML11,Parque Shopping Belém,"Rodovia Augusto Montenegro, 4.300",Parque Verde,PA,Belém,"28.676,00 m2","Rodovia Augusto Montenegro, 4.300, Belém, PA",-1.3531,-48.4534
+XPML11,Shopping Bela Vista,"Alameda  Euvaldo Luz,  92",Horto Bela Vista,BA,Salvador,"50.241,00 m2","Alameda  Euvaldo Luz,  92, Salvador, BA",-12.9698,-38.4747
+XPML11,Shopping Cidade Jardim,"Avenida Magalhães de  Castro, 12.000",Cidade Jardim,SP,São Paulo,"37.671,00 m2","Avenida Magalhães de  Castro, 12.000, São Paulo, SP",-23.5925,-46.694
+XPML11,Shopping Cidade São Paulo,"Avenida Paulista, 1230",Bela Vista,SP,São Paulo,"16.619,00 m2","Avenida Paulista, 1230, São Paulo, SP",-23.5638,-46.6533
+XPML11,Shopping Ponta Negra,"Avenida Coronel Teixeira,  5705",Ponta Negra,AM,Manuas,"36.615,00 m2","Avenida Coronel Teixeira,  5705, Manuas, AM",-3.0786,-60.0778
+XTED11,Atlântico Office,"Avenida Rui Barbosa, nº 2390",Cajueiros,RJ,Macaé,"7.012,00 m2","Avenida Rui Barbosa, nº 2390, Macaé, RJ",-22.3905,-41.7765
